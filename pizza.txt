@@ -1,0 +1,5 @@
+Recipe by Navin Reddy
+
+1 goto Dominos.com
+2 Select type
+3 Order
